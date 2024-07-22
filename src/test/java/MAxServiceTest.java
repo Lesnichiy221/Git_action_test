@@ -8,7 +8,7 @@ public class MAxServiceTest {
         MaxService service = new MaxService();
 
         int a = 5;
-        int b = 3;
+        int b = 4;
 
         int expected = 5;
         int actual = service.max(a, b);
